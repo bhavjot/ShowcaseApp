@@ -1,0 +1,7 @@
+{
+  "name": "Showcase App",
+  "description": "A simple Angular Showcase app",
+  "repository": "https://github.com/bhavjot/ShowcaseApp",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
